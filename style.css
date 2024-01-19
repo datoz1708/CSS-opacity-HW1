@@ -1,0 +1,37 @@
+body {
+    background-image: url(aksonvady_Data_technology_futuristic_illustration\ 31\ 1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box1 {
+    width: 293px;
+    height: 513px;
+    background-color: #DBC50080;
+    display: inline-block;
+    opacity: 0.8;
+}
+
+.box2 {
+    width: 293px;
+    height: 513px;
+    background-color: #DBC50066;
+    display: inline-block;
+    opacity: 0.8;
+}
+
+.box3 {
+    width: 293px;
+    height: 513px;
+    background-color: #DBC500B2;
+    display: inline-block;
+    opacity: 0.8;
+}
+
+.box4 {
+    width: 293px;
+    height: 513px;  
+    background-color: #DBC50059;
+    display: inline-block;
+    opacity: 0.8;
+}
